@@ -4,7 +4,7 @@
  *
  * @package TopLamuLeimu
  * @author Syc
- * @version 1.0.1
+ * @version 1.0.2
  * @link https://www.mfeng.cc/?plugin=Typecho-Top-LamuLeimu
  */
 
@@ -58,7 +58,7 @@ class TopLamuLeimu_Plugin implements Typecho_Plugin_Interface
     }
 
     /**
-     * 页头出相关代码
+     * 页头输出相关代码
      *
      * @access public
      * @param unknown header
