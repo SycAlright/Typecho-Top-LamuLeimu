@@ -22,4 +22,4 @@
 
   [1]: https://github.com/SycAlright/Typecho-Top-LamuLeimu
   [2]: https://qqdie.com/archives/left-right-rem-rahm-top-to-bottom-source.html
-  [3]: https://www.mfeng.cc/archives/2018/02/17/Typecho_Top_LamuLeimu.html
+  [3]: https://www.php.wf/archives/top-to-bottom-remram-typecho-plug-in.html
